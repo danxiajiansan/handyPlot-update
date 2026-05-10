@@ -1,6 +1,6 @@
 {
   "version": "233r4.test",
-  "url": "https://github.com/danxiajiansan/handyPlot-update/releases/tag/v1.0.0/handyPlot-win64-233r4.test.zip",
+  "url": "https://github.com/danxiajiansan/handyPlot-update/releases/download/v1.0.0/handyPlot-win64-233r4.test.zip",
   "sha256": "c7364a71978680fa97616d97bd1087778c81785d6ebbe77f61cc9c34ae1d7adb",
   "notes": "Initial release"
 }
