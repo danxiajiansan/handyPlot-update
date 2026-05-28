@@ -1,6 +1,6 @@
 {
-  "version": "",
-  "url": "https://github.com/danxiajiansan/handyPlot-update/releases/download/v1.0.0/handyPlot-win64-233r4.test.zip",
-  "sha256": "edb0d0f06e542c950f7cd2abda0857b027598edef9a1247243c5db802cfc9a88",
-  "notes": "Big changes"
+  "version": "233R4.653",
+  "url": "https://github.com/danxiajiansan/handyPlot-update/releases/download/233R4.653/handyPlot-win64-233R4.653.zip",
+  "sha256": "40ac3fcc3280d18a2b4cf51ea5b434002b7404d2ba0d402fd30d96f654224014",
+  "notes": "修复使用配方绘图的bug..."
 }
